@@ -1,0 +1,38 @@
+{
+  "datas": [
+    {
+      "name": "mani",
+      "email": "ucevunopu@ic.gl",
+      "password": "J5hR5trJe3EOkqSZz",
+      "id": "7405"
+    },
+    {
+      "name": "Manivannan R",
+      "email": "maniragupandu@gamil.com",
+      "password": "mani",
+      "confirmPassword": "mani",
+      "id": "c871"
+    },
+    {
+      "id": "0071",
+      "name": "ashok",
+      "email": "ashok@gamil.com",
+      "password": "ashok123",
+      "confirmPassword": "ashok123"
+    },
+    {
+      "id": "3f7d",
+      "name": "Manivannan R",
+      "email": "maniragupandu@gamil.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "eed6",
+      "name": "Manivannan R",
+      "email": "maniragupandu@gamil.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}
