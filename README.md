@@ -7,7 +7,7 @@ This project is an e-commerce website built using React with Vite. It allows use
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-      git clone https://github.com/your-username/e-commerce-website.git
+      git clone https://github.com/mani1312-code/E-commerce-Using-React.git
    
 
 2. Install dependencies:
