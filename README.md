@@ -25,10 +25,20 @@ To run this project locally, follow these steps:
 - React
 - Vite
 - CSS Modules
-- Axios (for API requests)
 - JSX
-- SCSS
-- BOOTSTRAP
+- SASS
+- BOOTSTRAP 5
+
+## Screen Shots
+
+## HOME PAGE
+
+![home page](https://github.com/mani1312-code/E-commerce-Using-React/assets/139042090/1c5f7532-33e8-4da0-9db2-3f6ec9ee2785)
+
+## SHOP PAGE
+
+![shop page](https://github.com/mani1312-code/E-commerce-Using-React/assets/139042090/4ec1dee8-7ea1-49c6-9710-43e6f9b6b237)
+
 
 ## Features
 
