@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 - Vite
 - CSS Modules
 - JSX
-- SASS
+- SCSS
 - BOOTSTRAP 5
 
 ## Screen Shots
